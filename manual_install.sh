@@ -1,3 +1,3 @@
 
 
-gh repo clone al-eval
+gh repo clone al-eval ~/p/al-eval
