@@ -22,4 +22,7 @@ cd /root/all-my-tiny-projects/telegram-bots/telegram-bot-language-learning/bot
 ```
 
 # perplexity pipleine
-## gh  
+## setup gh
+## gh repo clone   
+
+##  rclone get resources
